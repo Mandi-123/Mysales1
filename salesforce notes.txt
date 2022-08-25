@@ -1,0 +1,14 @@
+Git fundamentals:
+Remote repo: access is given only to few (everyone can see the changes)
+Local repo: clone copies of remote repo in person(changes you do are visible to only that person)
+help: git help <command>  or git <command> --help
+initialise: git 
+to link to remote: git remote add origin <url>
+clone: git clone<repository-url>
+
+working area: git add and git remove 
+staging area: git commit and git revert
+local repo: git push
+remote repo: git pull
+to identify a commit: git log --oneline
+to change a url: git remote set-url<>
